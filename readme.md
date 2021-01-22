@@ -1,1 +1,0 @@
-This is Nils' first git project!
